@@ -1,6 +1,5 @@
-# <YourProjectName>
+![image](https://github.com/vikramkadu/React-vite-redux-setup/assets/93420137/b63b37c4-71a4-4bbb-b8ef-cbc0309767d9)
 
-<YourProjectDescription>
 
 ## Project Setup
 
